@@ -12,5 +12,6 @@ Lei cuidadosamente las reglas y hubo una q decia
 
 Yo al subir y ver el primer mensaje lo copie
 
-<img width="571" height="584" alt="image" src="https://github.com/user-attachments/assets/1c971e88-0286-4703-8981-c0c7c0c678a4" />
+<img width="562" height="498" alt="image" src="https://github.com/user-attachments/assets/7da969a2-e5df-4dc0-a91d-49f29dad57f6" />
+
 
