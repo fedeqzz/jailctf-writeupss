@@ -2,7 +2,7 @@
 
 
 
-<img width="524" height="579" alt="image" src="https://github.com/user-attachments/assets/15a472f7-e451-460e-b9a3-cf27e7276476" />
+
 
 <img width="188" height="622" alt="image" src="https://github.com/user-attachments/assets/46e9584c-530e-4e00-9880-a5a6c80ca1a6" />
 
@@ -12,6 +12,9 @@
 ---
 
 ## Description
+
+<img width="524" height="579" alt="image" src="https://github.com/user-attachments/assets/15a472f7-e451-460e-b9a3-cf27e7276476" />
+
 Jimmy volvió a perderse… esta vez, en un lugar cubierto de nieve en algún punto de Japón.  
 Solo tenemos una imagen con unas casas, un coche azul, otro rojo y un misterioso poste con números.  
 ¿Podrás encontrar dónde está?
@@ -21,6 +24,7 @@ Solo tenemos una imagen con unas casas, un coche azul, otro rojo y un misterioso
 ## Files
 
 <img width="3468" height="4624" alt="chall (1)" src="https://github.com/user-attachments/assets/73f9566d-15f0-49b3-8093-13aee1c93d52" />
+
 - **File:** `chall.png`  
 - **Size:** ~15 MB  
 - **Description:** Fotografía nevada con dos casas, un auto azul y uno rojo. Al fondo se observa una estructura tipo fábrica y varios postes eléctricos con carteles en japonés y números visibles.
