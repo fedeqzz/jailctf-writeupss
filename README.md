@@ -94,11 +94,9 @@ Ese fue el momento en el que se entendió que los postes tienen **seis pares num
 
 <img width="818" height="713" alt="image" src="https://github.com/user-attachments/assets/687e0540-b705-4f22-865a-4ddccbc919d4" />
 
-Con la información del video, se identificó que el par **41** correspondía a la **región de Hokkaido**.  
-Inicialmente se pensó que el siguiente número visible era **43**, por lo que se exploraron zonas asociadas a ese distrito en **Google Street View**.  
+Con la información del video, se identificó que el par **41** correspondía a la **región de Hokkaido Sapporo**.  
 
-Sin embargo, tras comparar más postes, se observó que los números cambiaban progresivamente de **43 a 42** conforme se desplazaba por la zona, indicando una **transición entre distritos**.  
-Ahí se descubrió que el número correcto era **42**, y que los postes del área compartían patrones muy similares al de la imagen del reto.
+Ya habia resuelto el primer par , pero faltaba el 2do "43" , al empezar a ver los postes empeze a ver que el 2da par eran los distritos y empeze a buscar hasta que ahora quedara 41-43-?-?-?-?
 
 A partir de este punto, se empezó a **emparejar los números de los postes con sus ubicaciones**, utilizando las referencias visuales (casas, carreteras, nieve y estructuras).
 
