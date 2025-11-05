@@ -79,7 +79,7 @@ Esto confirmó que el área era probablemente del norte de Japón.
 <img width="720" height="412" alt="image" src="https://github.com/user-attachments/assets/f7f9d531-d700-4e00-b57c-b9782db7de00" />
 
 Buscando información sobre cómo se leen los números en los postes eléctricos japoneses, se encontraron varios sitios y documentos en japonés, pero ninguno explicaba claramente el formato.  
-Luego apareció un **video japonés** donde se mostraba un mapa de regiones y la correspondencia de los primeros pares de números con zonas específicas del país.  
+Luego apareció un **video** donde se mostraba un mapa de regiones y la correspondencia de los primeros pares de números con zonas específicas del país.  
 Gracias a este video y una página japonesa adicional, se descubrió que **faltaban dos pares de números en la parte inferior del poste** que no se veían completamente en la foto.  
 Al observar con más detalle, se alcanzaban a distinguir parcialmente **41**, **42** y **43**.
 
