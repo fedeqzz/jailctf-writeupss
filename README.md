@@ -1,5 +1,3 @@
-<img width="188" height="622" alt="image" src="https://github.com/user-attachments/assets/46e9584c-530e-4e00-9880-a5a6c80ca1a6" />
-
 # V1t CTF 2025
 ## OSINT : Lost in Hokkaido
 
@@ -36,6 +34,9 @@ Los elementos más relevantes para el análisis inicial fueron:
 - 🏠 **Dos casas** típicas de zonas residenciales japonesas.  
 - 🚗 **Dos autos** (uno azul y otro rojo) estacionados frente a las casas.  
 - ⚡ **Un poste eléctrico** con tres carteles visibles:
+
+<img width="188" height="622" alt="image" src="https://github.com/user-attachments/assets/46e9584c-530e-4e00-9880-a5a6c80ca1a6" />
+
   - Uno **amarillo** con el número `11363`.
   - Otro **blanco** con una serie de dígitos `73-77-85-07`.
   - Un tercero **blanco** con caracteres japoneses borrosos.
