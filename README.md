@@ -115,6 +115,12 @@ Retrocediendo unos metros con **Google Street View**, se pudo observar:
 
 Después de comparar todos los elementos visuales, la ubicación quedó confirmada.
 
+<img width="1514" height="942" alt="image" src="https://github.com/user-attachments/assets/d470bf6d-9817-472d-8612-1cdcd62bf05b" />
+
+<img width="602" height="572" alt="image" src="https://github.com/user-attachments/assets/dce91a8e-a4b8-439c-97d0-2324b24eca65" />
+
+
+
 ---
 
 ## Flag
