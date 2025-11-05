@@ -96,7 +96,7 @@ Ese fue el momento en el que se entendió que los postes tienen **seis pares num
 
 Con la información del video, se identificó que el par **41** correspondía a la **región de Hokkaido Sapporo**.  
 
-Ya habia resuelto el primer par , pero faltaba el 2do "43" , al empezar a ver los postes empeze a ver que el 2da par eran los distritos y empeze a buscar hasta que ahora quedara 41-43-?-?-?-?
+Ya habia resuelto el primer par , pero faltaba el 2do **"42"** , al empezar a ver los postes empeze a ver que el 2da par eran los distritos y empeze a buscar hasta que ahora quedara 41-42-?-?-?-?
 
 A partir de este punto, se empezó a **emparejar los números de los postes con sus ubicaciones**, utilizando las referencias visuales (casas, carreteras, nieve y estructuras).
 
